@@ -1,9 +1,6 @@
 
-<h1>Used Car Price Prediction (End-to End Project)</h1>
+<h1>CarPredoPedia: - End to End Used Car Price Prediction</h1>
 
-Project Report: https://towardsdatascience.com/used-car-price-prediction-using-machine-learning-e3be02d977b2
-
-Deployment: https://abhash-car-price-prediction.herokuapp.com/
 <pre>
 ├── DATA
 │    ├── vehiclesFinalData.zip
